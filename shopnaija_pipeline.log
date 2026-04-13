@@ -1,0 +1,218 @@
+2026-04-12 13:54:14,450 - INFO - Pipeline started
+2026-04-12 13:54:14,454 - INFO - Reading sales file: raw_data/sales_2026-04-11.csv
+2026-04-12 13:54:14,460 - ERROR - File not found: raw_data/sales_2026-04-11.csv
+2026-04-12 13:54:14,462 - INFO - Connecting to database...
+2026-04-12 13:54:14,825 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-12 13:54:14,825 - INFO - Fetching exchange rate...
+2026-04-12 13:54:15,840 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-12 13:54:15,871 - INFO - Exchange rate: 1357.343413
+2026-04-12 13:54:15,873 - ERROR - Pipeline stopped due to missing data
+2026-04-12 13:54:46,976 - INFO - Pipeline started
+2026-04-12 13:54:46,979 - INFO - Reading sales file: raw_data/sales_2026-04-11.csv
+2026-04-12 13:54:46,981 - ERROR - File not found: raw_data/sales_2026-04-11.csv
+2026-04-12 13:54:46,983 - INFO - Connecting to database...
+2026-04-12 13:54:47,046 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-12 13:54:47,046 - INFO - Fetching exchange rate...
+2026-04-12 13:54:47,693 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-12 13:54:47,704 - INFO - Exchange rate: 1357.343413
+2026-04-12 13:54:47,709 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:18:44,226 - INFO - Pipeline started
+2026-04-13 18:18:44,229 - INFO - Reading sales file: raw_data/sales_2026-04-12.csv
+2026-04-13 18:18:44,232 - ERROR - File not found: raw_data/sales_2026-04-12.csv
+2026-04-13 18:18:44,235 - INFO - Connecting to database...
+2026-04-13 18:18:44,416 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-13 18:18:44,419 - INFO - Fetching exchange rate...
+2026-04-13 18:18:45,416 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:18:45,452 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:18:45,453 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:20:22,987 - INFO - Pipeline started
+2026-04-13 18:20:22,988 - INFO - Reading sales file: sales_2026-04-12.csv
+2026-04-13 18:20:22,990 - ERROR - File not found: sales_2026-04-12.csv
+2026-04-13 18:20:22,993 - INFO - Connecting to database...
+2026-04-13 18:20:23,048 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-13 18:20:23,049 - INFO - Fetching exchange rate...
+2026-04-13 18:20:23,807 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:20:23,821 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:20:23,824 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:21:03,398 - INFO - Pipeline started
+2026-04-13 18:21:03,399 - INFO - Reading sales file: sales_2026-04-12.csv
+2026-04-13 18:21:03,400 - ERROR - File not found: sales_2026-04-12.csv
+2026-04-13 18:21:03,401 - INFO - Connecting to database...
+2026-04-13 18:21:03,445 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-13 18:21:03,445 - INFO - Fetching exchange rate...
+2026-04-13 18:21:04,143 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:21:04,146 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:21:04,147 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:24:26,843 - INFO - Pipeline started
+2026-04-13 18:24:26,844 - INFO - Reading sales file: sales_2026-04-12.csv
+2026-04-13 18:24:26,846 - ERROR - File not found: sales_2026-04-12.csv
+2026-04-13 18:24:26,848 - INFO - Connecting to database...
+2026-04-13 18:24:27,002 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-13 18:24:27,013 - INFO - Fetching exchange rate...
+2026-04-13 18:24:27,656 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:24:27,667 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:24:27,671 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:27:48,411 - INFO - Pipeline started
+2026-04-13 18:27:48,413 - INFO - Reading sales file: raw_data/sales_2026-04-12.csv
+2026-04-13 18:27:48,415 - ERROR - File not found: raw_data/sales_2026-04-12.csv
+2026-04-13 18:27:48,418 - INFO - Connecting to database...
+2026-04-13 18:27:48,470 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-13 18:27:48,471 - INFO - Fetching exchange rate...
+2026-04-13 18:27:49,359 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:27:49,372 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:27:49,377 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:29:04,035 - INFO - Pipeline started
+2026-04-13 18:29:04,037 - INFO - Reading sales file: raw_data/sales_2026-04-12.csv
+2026-04-13 18:29:04,039 - ERROR - File not found: raw_data/sales_2026-04-12.csv
+2026-04-13 18:29:04,041 - INFO - Connecting to database...
+2026-04-13 18:29:04,102 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-13 18:29:04,102 - INFO - Fetching exchange rate...
+2026-04-13 18:29:04,773 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:29:04,785 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:29:04,789 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:36:12,899 - INFO - Pipeline started
+2026-04-13 18:36:12,901 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 18:36:12,905 - INFO - Sales data loaded: (15, 8)
+2026-04-13 18:36:12,906 - INFO - Connecting to database...
+2026-04-13 18:36:12,946 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-13 18:36:12,946 - INFO - Fetching exchange rate...
+2026-04-13 18:36:13,536 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:36:13,546 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:36:13,550 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:39:40,836 - INFO - Pipeline started
+2026-04-13 18:39:40,837 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 18:39:40,844 - INFO - Rows: 15, Columns: 8
+2026-04-13 18:39:40,844 - INFO - Connecting to database...
+2026-04-13 18:39:40,894 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-13 18:39:40,895 - INFO - Fetching exchange rate...
+2026-04-13 18:39:41,756 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:39:41,770 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:39:41,772 - ERROR - Pipeline stopped due to missing data
+2026-04-13 18:41:28,315 - INFO - Pipeline started
+2026-04-13 18:41:28,317 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 18:41:28,321 - INFO - Rows: 15, Columns: 8
+2026-04-13 18:41:28,321 - INFO - Connecting to database...
+2026-04-13 18:41:31,367 - INFO - Customers loaded: (6, 6)
+2026-04-13 18:41:31,367 - INFO - Fetching exchange rate...
+2026-04-13 18:41:31,924 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:41:31,952 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:41:31,953 - INFO - Starting transformation...
+2026-04-13 18:41:31,978 - INFO - Transformation complete: (13, 15)
+2026-04-13 18:41:31,979 - INFO - Validating data...
+2026-04-13 18:41:31,983 - INFO - 13 rows ready for loading
+2026-04-13 18:41:31,984 - INFO - Loading data to database...
+2026-04-13 18:41:31,986 - ERROR - Error loading data: invalid literal for int() with base 10: 'None'
+2026-04-13 18:41:31,988 - INFO - Pipeline completed successfully
+2026-04-13 18:48:42,449 - INFO - Pipeline started
+2026-04-13 18:48:42,451 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 18:48:42,456 - INFO - Rows: 15, Columns: 8
+2026-04-13 18:48:42,457 - INFO - Connecting to database...
+2026-04-13 18:48:44,737 - INFO - Customers loaded: (6, 6)
+2026-04-13 18:48:44,737 - INFO - Fetching exchange rate...
+2026-04-13 18:48:45,296 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:48:45,297 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:48:45,307 - INFO - Starting transformation...
+2026-04-13 18:48:45,334 - INFO - Transformation complete: (13, 15)
+2026-04-13 18:48:45,336 - INFO - Validating data...
+2026-04-13 18:48:45,341 - INFO - 13 rows ready for loading
+2026-04-13 18:48:45,341 - INFO - Loading data to database...
+2026-04-13 18:48:45,343 - ERROR - Error loading data: invalid literal for int() with base 10: 'None'
+2026-04-13 18:48:45,345 - INFO - Pipeline completed successfully
+2026-04-13 18:51:41,175 - INFO - Pipeline started
+2026-04-13 18:51:41,178 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 18:51:41,183 - INFO - Rows: 15, Columns: 8
+2026-04-13 18:51:41,184 - INFO - Connecting to database...
+2026-04-13 18:51:43,429 - INFO - Customers loaded: (6, 6)
+2026-04-13 18:51:43,433 - INFO - Fetching exchange rate...
+2026-04-13 18:51:44,071 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:51:44,089 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:51:44,091 - INFO - Starting transformation...
+2026-04-13 18:51:44,101 - INFO - Transformation complete: (13, 15)
+2026-04-13 18:51:44,102 - INFO - Validating data...
+2026-04-13 18:51:44,104 - INFO - 13 rows ready for loading
+2026-04-13 18:51:44,104 - INFO - Loading data to database...
+2026-04-13 18:51:44,107 - ERROR - Error loading data: invalid literal for int() with base 10: 'None'
+2026-04-13 18:51:44,108 - INFO - Pipeline completed successfully
+2026-04-13 18:53:11,463 - INFO - Pipeline started
+2026-04-13 18:53:11,465 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 18:53:11,469 - INFO - Rows: 15, Columns: 8
+2026-04-13 18:53:11,470 - INFO - Connecting to database...
+2026-04-13 18:53:13,305 - INFO - Customers loaded: (6, 6)
+2026-04-13 18:53:13,306 - INFO - Fetching exchange rate...
+2026-04-13 18:53:13,781 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 18:53:13,786 - INFO - Exchange rate: 1362.350542
+2026-04-13 18:53:13,787 - INFO - Starting transformation...
+2026-04-13 18:53:13,796 - INFO - Transformation complete: (13, 15)
+2026-04-13 18:53:13,796 - INFO - Validating data...
+2026-04-13 18:53:13,796 - INFO - 13 rows ready for loading
+2026-04-13 18:53:13,796 - INFO - Loading data to database...
+2026-04-13 18:53:13,796 - ERROR - Error loading data: invalid literal for int() with base 10: 'None'
+2026-04-13 18:53:13,796 - INFO - Pipeline completed successfully
+2026-04-13 19:14:11,235 - INFO - Pipeline started
+2026-04-13 19:14:11,240 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 19:14:11,247 - INFO - Rows: 15, Columns: 8
+2026-04-13 19:14:11,248 - INFO - Connecting to database...
+2026-04-13 19:14:13,202 - INFO - Customers loaded: (6, 6)
+2026-04-13 19:14:13,202 - INFO - Fetching exchange rate...
+2026-04-13 19:14:14,105 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 19:14:14,108 - INFO - Exchange rate: 1362.350542
+2026-04-13 19:14:14,108 - INFO - Starting transformation...
+2026-04-13 19:14:14,122 - INFO - Transformation complete: (13, 15)
+2026-04-13 19:14:14,122 - INFO - Validating data...
+2026-04-13 19:14:14,122 - INFO - 13 rows ready for loading
+2026-04-13 19:14:14,122 - INFO - Loading data to database...
+2026-04-13 19:14:14,122 - ERROR - Error loading data: invalid literal for int() with base 10: 'None'
+2026-04-13 19:14:14,130 - INFO - Pipeline completed successfully
+2026-04-13 19:18:19,817 - INFO - Pipeline started
+2026-04-13 19:18:19,819 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 19:18:19,824 - INFO - Rows: 15, Columns: 8
+2026-04-13 19:18:19,825 - INFO - Connecting to database...
+2026-04-13 19:18:21,189 - INFO - Customers loaded: (6, 6)
+2026-04-13 19:18:21,189 - INFO - Fetching exchange rate...
+2026-04-13 19:18:21,784 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 19:18:21,793 - INFO - Exchange rate: 1362.350542
+2026-04-13 19:18:21,794 - INFO - Starting transformation...
+2026-04-13 19:18:21,806 - INFO - Transformation complete: (13, 15)
+2026-04-13 19:18:21,807 - INFO - Validating data...
+2026-04-13 19:18:21,810 - INFO - 13 rows ready for loading
+2026-04-13 19:18:21,811 - INFO - Loading data to database...
+2026-04-13 19:18:21,812 - ERROR - Error loading data: invalid literal for int() with base 10: 'None'
+2026-04-13 19:18:21,813 - INFO - Pipeline completed successfully
+2026-04-13 19:36:12,190 - INFO - Pipeline started
+2026-04-13 19:36:12,191 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 19:36:12,195 - INFO - Rows: 15, Columns: 8
+2026-04-13 19:36:12,197 - INFO - Connecting to database...
+2026-04-13 19:36:14,156 - INFO - Customers loaded: (6, 6)
+2026-04-13 19:36:14,156 - INFO - Fetching exchange rate...
+2026-04-13 19:36:15,233 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 19:36:15,240 - INFO - Exchange rate: 1362.350542
+2026-04-13 19:36:15,242 - INFO - Starting transformation...
+2026-04-13 19:36:15,252 - INFO - Transformation complete: (13, 15)
+2026-04-13 19:36:15,254 - INFO - Validating data...
+2026-04-13 19:36:15,256 - INFO - 13 rows ready for loading
+2026-04-13 19:36:15,263 - ERROR - Error loading data: invalid literal for int() with base 10: 'None'
+2026-04-13 19:36:15,264 - INFO - Pipeline completed successfully
+2026-04-13 19:39:35,908 - INFO - Pipeline started
+2026-04-13 19:39:35,910 - INFO - Reading sales file: sales_2026-04-06.csv
+2026-04-13 19:39:35,915 - INFO - Rows: 15, Columns: 8
+2026-04-13 19:39:35,917 - INFO - Connecting to database...
+2026-04-13 19:39:37,546 - INFO - Customers loaded: (6, 6)
+2026-04-13 19:39:37,547 - INFO - Fetching exchange rate...
+2026-04-13 19:39:38,004 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-13 19:39:38,012 - INFO - Exchange rate: 1362.350542
+2026-04-13 19:39:38,013 - INFO - Starting transformation...
+2026-04-13 19:39:38,019 - INFO - Transformation complete: (13, 15)
+2026-04-13 19:39:38,019 - INFO - Validating data...
+2026-04-13 19:39:38,028 - INFO - 13 rows ready for loading
+2026-04-13 19:39:38,031 - ERROR - Error loading data: invalid literal for int() with base 10: 'None'
+2026-04-13 19:39:38,033 - INFO - Pipeline completed successfully

@@ -1,0 +1,20 @@
+2026-04-12 13:54:14,450 - INFO - Pipeline started
+2026-04-12 13:54:14,454 - INFO - Reading sales file: raw_data/sales_2026-04-11.csv
+2026-04-12 13:54:14,460 - ERROR - File not found: raw_data/sales_2026-04-11.csv
+2026-04-12 13:54:14,462 - INFO - Connecting to database...
+2026-04-12 13:54:14,825 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-12 13:54:14,825 - INFO - Fetching exchange rate...
+2026-04-12 13:54:15,840 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-12 13:54:15,871 - INFO - Exchange rate: 1357.343413
+2026-04-12 13:54:15,873 - ERROR - Pipeline stopped due to missing data
+2026-04-12 13:54:46,976 - INFO - Pipeline started
+2026-04-12 13:54:46,979 - INFO - Reading sales file: raw_data/sales_2026-04-11.csv
+2026-04-12 13:54:46,981 - ERROR - File not found: raw_data/sales_2026-04-11.csv
+2026-04-12 13:54:46,983 - INFO - Connecting to database...
+2026-04-12 13:54:47,046 - ERROR - Error fetching customers: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2026-04-12 13:54:47,046 - INFO - Fetching exchange rate...
+2026-04-12 13:54:47,693 - INFO - Raw API saved: raw_data/api_raw/exchange_rate.json
+2026-04-12 13:54:47,704 - INFO - Exchange rate: 1357.343413
+2026-04-12 13:54:47,709 - ERROR - Pipeline stopped due to missing data

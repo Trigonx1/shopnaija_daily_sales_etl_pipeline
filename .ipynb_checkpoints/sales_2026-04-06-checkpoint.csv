@@ -1,0 +1,16 @@
+order_id,product_name,category,quantity,unit_price_usd,order_date,customer_id,status
+1001,Samsung Galaxy A54,Electronics,1,320,15/01/2024,C001,completed
+1002,Ankara Dress,Fashion,3,45,15/01/2024,C002,completed
+1003,Standing Fan,Home,2,78.5,15/01/2024,C003,pending
+1004,iPhone 15 Case,Electronics,5,12,16/01/2024,C001,completed
+1005,Leather Handbag,Fashion,1,95,16/01/2024,C004,cancelled
+1006,Microwave Oven,Home,1,150,16/01/2024,C002,completed
+1007,Wireless Earbuds,Electronics,2,55,17/01/2024,C005,completed
+1008,Ankara Dress,Fashion,2,45,17/01/2024,C003,completed
+1009,Blender,Home,1,,17/01/2024,C006,pending
+1010,Phone Charger,Electronics,3,8,18/01/2024,,completed
+1011,Wrist Watch,Fashion,1,120,18/01/2024,C004,completed
+1012,Samsung Galaxy A54,Electronics,1,320,18/01/2024,C005,completed
+1013,Rice Cooker,Home,2,65,19/01/2024,C001,pending
+1014,Lipstick Set,Fashion,4,22,19/01/2024,C002,completed
+1015,Samsung Galaxy A54,Electronics,1,320,15/01/2024,C001,completed
