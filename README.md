@@ -1,6 +1,6 @@
 #    ShopNaija Daily Sales ETL Pipeline
 
-> *Built by a junior data engineer learning to turn raw, messy e-commerce data into clean, analysis-ready reports — automatically, every single day.*
+> *Built by a junior data engineer and this project turns raw, messy e-commerce data into clean, analysis-ready reports — automatically, every single day.*
 
 ---
 
@@ -30,7 +30,7 @@
 This project is a fully automated **ETL (Extract, Transform, Load) data pipeline** built for ShopNaija using Python. Every morning at **7:00am**, the pipeline wakes up on its own and does the following:
 
 -  **Extracts** yesterday's sales data from a CSV file, customer details from a Supabase database, and a live USD to Naira exchange rate from the internet
-- 🧹 **Transforms** and cleans the raw data — fixes inconsistencies, removes bad rows, converts prices to Naira, and joins customer information to each sale
+-  **Transforms** and cleans the raw data — fixes inconsistencies, removes bad rows, converts prices to Naira, and joins customer information to each sale
 -  **Validates** the data to make sure it is healthy before saving
 -  **Loads** the final clean report into a Supabase cloud database — ready for analysis
 
