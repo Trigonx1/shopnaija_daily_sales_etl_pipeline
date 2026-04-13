@@ -168,7 +168,7 @@ This pipeline follows the classic **ETL** pattern — Extract, Transform, Load. 
 
 <br>
 
-## 🔍 Step-by-Step Breakdown
+##  Step-by-Step Breakdown
 
 ### Step 1 — Extract Sales CSV
 
@@ -471,7 +471,7 @@ Take a screenshot of the task to include in your submission.
 
 <br>
 
-## 🧠 Struggles and Recommendations
+##  Struggles and Recommendations
 
 ### What Was Hard
 
