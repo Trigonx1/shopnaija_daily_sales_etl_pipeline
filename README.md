@@ -532,9 +532,9 @@ If I were to extend this project further, here is what I would add:
 
 ##  Author
 
-Built by **Abdulbasit** — Junior Data Engineer in training.
+Built by **Abdulbasit** — Junior Data Engineer.
 
-Learning data engineering one pipeline at a time. Follow the journey on TikTok: **@asktrixx**
+ data engineering one pipeline at a time. Follow the journey on TikTok: **@asktrixx**
 
 ---
 
